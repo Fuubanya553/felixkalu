@@ -1,0 +1,225 @@
+body {
+  border: 30px solid black;
+  border-image: url("Image/bgimg.jpg") 30 round;
+  background-color: burlywood;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  text-align: center;
+  text-decoration: bold;
+  font-size: 150px;
+  color:black;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.bgheading {
+  text-align: center;
+  font-size: 30px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.meet-felix-image {
+  border: 30px solid black;
+  border-image: url("Image/bgimg.jpg") 30 round;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  max-width: 50%;
+  max-height: 30%;
+  object-fit: cover;
+}
+.family-image {
+  border: 30px solid black;
+  border-image: url("Image/bgimg.jpg") 30 round;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  max-width: 50%;
+  max-height: 30%;
+  object-fit: cover;
+}
+.Work-Experience {
+  text-align: center;
+  text-decoration: bold;
+  font-size: 35px;
+  color:black;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.download-link {
+  display: block;
+  text-align: center;
+  font-size: 30px;
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-decoration: underline;
+  font-family: Times New Roman;
+}
+.resume-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 50%;
+  height: auto;
+}
+.Date1 {
+  text-align: Left;
+  font-weight: bold;
+  font-size: 70px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.role1 {
+  text-align: Left;
+  font-weight: bold;
+  font-size: 30px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.Description1 {
+  text-align: Left;
+  font-size: 30px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.Date2 {
+  text-align: Left;
+  font-weight: bold;
+  font-size: 70px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.role2 {
+  text-align: Left;
+  font-weight: bold;
+  font-size: 30px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.Description2 {
+  text-align: Left;
+  font-size: 30px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.Date3 {
+  text-align: Left;
+  font-weight: bold;
+  font-size: 70px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.role3 {
+  text-align: Left;
+  font-weight: bold;
+  font-size: 30px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.Description3 {
+  text-align: Left;
+  font-size: 30px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.Date4 {
+  text-align: Left;
+  font-weight: bold;
+  font-size: 70px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.role4 {
+  text-align: Left;
+  font-weight: bold;
+  font-size: 30px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.Description4 {
+  text-align: Left;
+  font-size: 30px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.Projects {
+  text-align: center;
+  text-decoration: bold;
+  font-size: 35px;
+  color:black;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.link-container {
+  text-align: center;
+}
+.git-hub {
+  text-align: center;
+  font-size: 40px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
+.Project {
+  text-align: center;
+  font-size: 30px;
+  color:black;
+  padding: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: Times New Roman;
+}
